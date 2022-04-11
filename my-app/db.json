@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "payeeName": "Mayuri",
+      "product": "Bike Repair",
+      "price": 1000,
+      "setDate": "2022-04-07",
+      "id": 1
+    },
+    {
+      "payeeName": "Mayuri",
+      "product": "Movie",
+      "price": 1044,
+      "setDate": "2022-04-05",
+      "id": 2
+    },
+    {
+      "payeeName": "Amod",
+      "product": "Vegetables",
+      "price": 366,
+      "setDate": "2022-04-01",
+      "id": 3
+    },
+    {
+      "payeeName": "Mayuri",
+      "product": "Water",
+      "price": 40,
+      "setDate": "2022-04-02",
+      "id": 4
+    },
+    {
+      "payeeName": "Amod",
+      "product": "Grocery",
+      "price": 192,
+      "setDate": "2022-04-03",
+      "id": 5
+    },
+    {
+      "payeeName": "Amod",
+      "product": "Rice Bag",
+      "price": 2000,
+      "setDate": "2022-04-05",
+      "id": 6
+    },
+    {
+      "payeeName": "Amod",
+      "product": "Internet Bills",
+      "price": 1200,
+      "setDate": "2022-04-06",
+      "id": 7
+    },
+    {
+      "payeeName": "Mayuri",
+      "product": "Electricity Bill",
+      "price": 724,
+      "setDate": "2022-04-04",
+      "id": 8
+    },
+    {
+      "payeeName": "Amod",
+      "product": "Water",
+      "price": 40,
+      "setDate": "2022-04-05",
+      "id": 9
+    },
+    {
+      "payeeName": "Mayuri",
+      "product": "Water",
+      "price": 40,
+      "setDate": "2022-04-06",
+      "id": 10
+    },
+    {
+      "payeeName": "Mayuri",
+      "product": "Plumbing work",
+      "price": 250,
+      "setDate": "2022-04-05",
+      "id": 11
+    },
+    {
+      "payeeName": "Mayuri",
+      "product": "Tubelight",
+      "price": 149,
+      "setDate": "2022-04-01",
+      "id": 12
+    },
+    {
+      "payeeName": "Amod",
+      "product": "LPG",
+      "price": 1000,
+      "setDate": "2022-04-05",
+      "id": 13
+    },
+    {
+      "payeeName": "Amod",
+      "product": "veg",
+      "price": 34,
+      "setDate": "2022-04-11",
+      "id": 14
+    },
+    {
+      "payeeName": "Mayuri",
+      "product": "rasberry",
+      "price": 250,
+      "setDate": "2022-04-11",
+      "id": 15
+    },
+    {
+      "payeeName": "Mayuri",
+      "product": "grocery",
+      "price": 45,
+      "setDate": "2022-04-11",
+      "id": 16
+    },
+    {
+      "payeeName": "Amod",
+      "product": "bike repair",
+      "price": 5000,
+      "setDate": "2022-04-11",
+      "id": 17
+    }
+  ]
+}
